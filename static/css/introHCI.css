@@ -1,3 +1,10 @@
+#project1 {
+     margin-left: 1px;
+     background-color: #BDD616;
+     padding: 1px;
+     width: 1px;
+}
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
